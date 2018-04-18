@@ -1,0 +1,36 @@
+/*
+* Emily Quinn
+* 4/18/18
+* First CSS File
+*/
+
+
+/* The universal selector */
+
+* {margin: 0; padding:0}
+
+/* Put body attributes here */
+
+/*Figure 1: dogs
+*figure 2: flowers
+*figure 3: dance
+*figure 4: musical theater*/
+
+body { 
+	background-color: #E6E6FA;
+	font-family: "Franklin Gothic", Arial, sans-serif;
+}
+
+h1 {
+	font-family: Helvetica, Arial, sans-serif;
+	color: #696969
+	text-align: center;
+	text-decoration: overline underline;
+	background-color: #98ff98;
+}
+
+
+/* images were in figures; floated the whole figure*/
+figure {
+	float: left;
+}
