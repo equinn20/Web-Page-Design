@@ -1,0 +1,71 @@
+/*
+* Emily Quinn
+* 4/25/18
+* Girl Develop It CSS
+*/
+
+
+/* The universal selector */
+
+* {margin: 0, padding: 0}
+
+
+
+/*background found by taking a screenshot of the website and going to http://imagecolorpicker.net*/
+/*googled "free sans serif fonts" because I couldn't find the font*/
+
+body { 
+	
+	background-color: #FBE3E1;
+	font-family: Acme, Alef, Arial;
+}
+
+/*googled "free cursive fonts" because I couldn't find the font*/
+
+h1 {
+	font-family: "Lucinda Handwriting", Allura, "Honey Script";
+	color: black;
+	text-decoration: underline;
+}
+
+/*googled "free cursive fonts" because I couldn't figure out the font*/
+
+h5 {
+	font-family: "Lucinda Handwriting", Allura, "Honey Script";
+	color: black;
+	text-decoration: underline;
+}
+
+/*background found by taking a screenshot of the website and going to http://imagecolorpicker.net*/
+
+header {
+	background-color: #EB4B55;
+}
+
+.right {
+	float: right;
+}
+
+#stopfloat {
+	clear: right;
+}
+
+/*font color found by taking a screenshot of the website and going to http://imagecolorpicker.net*/
+a:link {
+	color: #7053FA;
+	text-decoration: underline;
+}
+
+a:visited {
+	color: blue;
+	text-decoration: none;
+}
+
+/*font color found by taking a screenshot of the website and going to http://imagecolorpicker.net*/
+
+a:hover, a:focus {
+	color: #E86FF6;
+	text-decoration: none;
+	font-size: 20pt;
+}
+
