@@ -1,0 +1,66 @@
+/* Name: Emily Quinn
+*  Date: May 14, 2018
+*  Lab: C13 Fluid Layout Exercise */
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    width: 98%;
+    background-color: #DEB887;
+    margin: 15px auto;
+    border: 1px solid black;
+    font-family: Calibri, Cambria;
+}
+
+h1 {
+    padding: 10px;
+}
+
+header {
+    border-bottom: 2px solid black;
+}
+
+#sidebarA {
+    width: 22%;
+    height: 500px;
+    float: left;
+    border-right: 2px solid black;
+    background-color: #AD4738;
+}
+
+main {
+    width: 50%;
+    height:500px;
+    float: left;
+    background-color: #DEB887;
+}
+
+#sidebarB {
+    width: 26%;
+    height: 500px;
+    float: right;
+    border-left: 2px solid black;
+        background-color: #AD4738;
+}
+footer {
+    clear: both;
+    border-top: 2px solid black;
+}
+
+.plswork {
+	text-align:center;
+
+}
+
+#scream {
+	text-decoration: underline;
+
+}
+
+#ow {
+	text-align: left;
+
+}
