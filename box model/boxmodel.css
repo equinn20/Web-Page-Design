@@ -1,0 +1,49 @@
+/*
+* Emily Quinn
+* 4/18/18
+* Box Model
+*/
+
+
+/* The universal selector */
+
+* {margin: 0; padding:0}
+
+/* Put body attributes here */
+
+h1 {
+	border: dashed black;
+	padding-top: 12 px;
+	padding-bottom:12 px;
+	padding-right: 16 px;
+	padding-left: 16 px
+	width: auto;
+	height: auto;
+}
+
+
+p{
+	border: dashed black;
+	padding-top: 12 px;
+	padding-bottom: 12 px;
+	padding-right: 16 px;
+	padding-left: 17 px;
+	width: auto;
+	height: auto;
+}
+
+main{
+	border: 5px solid black;
+	padding-top: 20 px;
+	margin-left: 20 px;
+	width: auto;
+	height: auto;
+}
+
+body{
+	border: 10 px dashed black;
+	padding-top: 10 px;
+	height: auto;
+	width: auto;
+
+}
