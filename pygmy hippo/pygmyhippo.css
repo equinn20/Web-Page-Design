@@ -1,0 +1,24 @@
+/*
+* Emily Quinn
+* 5/11/18
+* Endangered Species Project
+*/
+
+
+/* The universal selector */
+
+* {
+
+}
+
+/* Put body attributes here */
+
+body { 
+	background-color: #C0C0C0;
+	font-family: Calibri, Arial;
+}
+
+.help{
+	text-align: center;
+
+}
